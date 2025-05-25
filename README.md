@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Rahul Malhotra
 
-<!--
-**malhotraguy/malhotraguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **AI/ML Engineer** @ Morgan Stanley  
+📍 Montreal, Canada  
+🔧 Tech: Python, Golang, Kubernetes, Docker, MLOps  
 
-Here are some ideas to get you started:
+I’m currently learning **DevOps & MLOps**.  
+Ask me about: `Python`, `Golang`, `Kubernetes`, `Docker`, `Machine Learning`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [Contact Me](mailto:rajat@example.com)
+
+⏰ Time in Montreal: <span id="time">Loading...</span>
+
+---
+
+### 💼 Popular Project
+
+📌 **[Banking-System](https://github.com/malhotraguy/Banking-System )**  
+Learning OOPs in Python. Making a Banking system with authentication.  
+Language: Python
+
+---
+
+🔗 [LinkedIn](https://www.linkedin.com/in/rmalhot/ ) • 
+🛠️ Built with ❤️ using HTML, CSS, JS — [View Source](https://github.com/malhotraguy/malhotraguy )

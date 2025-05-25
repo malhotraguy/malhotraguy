@@ -7,7 +7,7 @@
 I’m currently learning **DevOps & MLOps**.  
 Ask me about: `Python`, `Golang`, `Kubernetes`, `Docker`, `Machine Learning`, `LLMs`.
 
-📫 [Contact Me](mailto:rajat@example.com)
+📫 [Contact Me](mailto:electronicsgrad@gmail.com)
 
 ⏰ Time in Montreal: <span id="time">Loading...</span>
 

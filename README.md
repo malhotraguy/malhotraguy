@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Rahul Malhotra
 
-💻 **AI/ML Engineer** @ Morgan Stanley  
+💻 **Senior Software Engineer learning AI/ML** 
 📍 Montreal, Canada  
 🔧 Tech: Python, Golang, Kubernetes, Docker, MLOps  
 
 I’m currently learning **DevOps & MLOps**.  
-Ask me about: `Python`, `Golang`, `Kubernetes`, `Docker`, `Machine Learning`.
+Ask me about: `Python`, `Golang`, `Kubernetes`, `Docker`, `Machine Learning`, `LLMs`.
 
 📫 [Contact Me](mailto:rajat@example.com)
 

@@ -4,7 +4,7 @@
 📍 Montreal, Canada  
 🔧 Tech: Python, Golang, Kubernetes, Docker, MLOps  
 
-I’m currently learning **DevOps & MLOps**.  
+I’m currently learning **Agent Orchestration & MLOps**.  
 Ask me about: `Python`, `Golang`, `Kubernetes`, `Docker`, `Machine Learning`, `LLMs`.
 
 📫 [Contact Me](mailto:electronicsgrad@gmail.com)
